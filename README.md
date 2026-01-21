@@ -40,10 +40,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/huzaifa-aslam0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://instagram.com/huzaifa_aslam0" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
