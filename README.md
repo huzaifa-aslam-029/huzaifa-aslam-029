@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/huzaifa-aslam-029.png" width="150" style="border-radius: 50%;" alt="Huzaifa Aslam" />
+<img src="https://github.com/huzaifa-aslam-029.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Huzaifa Aslam" />
 
 # Huzaifa Aslam
 
