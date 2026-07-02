@@ -44,10 +44,8 @@ I'm a software engineering student with a focus on full-stack web development. I
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifa-aslam-029&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-aslam-029&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=huzaifa-aslam-029&theme=github-dark&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
+![](https://github.com/huzaifa-aslam-029/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/huzaifa-aslam-029/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
