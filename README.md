@@ -1,52 +1,68 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Aslam</h1>
-<h3 align="center">Aspiring Software Engineer | Web Developer | C# Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifa-aslam-029&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+# Huzaifa Aslam
 
----
+**Aspiring Software Engineer · Web Developer · C# Programmer**
 
-## 🚀 About Me
-- 🌱 Currently learning **Web Development & Software Engineering**
-- 💻 Working with **HTML, CSS, JavaScript, React, Firebase, C#**
-- 🔭 Building **real-world projects & console games**
-- 🎯 Goal: Become a **Professional Software Engineer**
-- ⚡ Fun fact: I love **clean code & problem solving**
+[![Profile Views](https://komarev.com/ghpvc/?username=huzaifa-aslam-029&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/huzaifa-aslam-029)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-aslam0/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/huzaifa_aslam0)
+
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+## About
+
+I'm a software engineering student with a focus on full-stack web development. I build real-world applications and console-based projects, with an emphasis on clean, maintainable code and practical problem-solving.
+
+- 🌱 Currently deepening my skills in **web development and software engineering fundamentals**
+- 💻 Working across **HTML, CSS, JavaScript, React, Firebase, and C#**
+- 🔭 Building **production-style projects** rather than isolated tutorials
+- 🎯 Working toward a career as a **professional software engineer**
+
+---
+
+## Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,cs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,cs,git,github" alt="Tech stack icons" />
 </p>
+
+| Category | Tools |
+|---|---|
+| **Languages** | JavaScript, C# |
+| **Frontend** | HTML, CSS, React |
+| **Backend / Data** | Firebase |
+| **Tooling** | Git, GitHub |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa-aslam-029&show_icons=true&theme=radical" /> 
-</p>
+## GitHub Statistics
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=huzaifa-aslam-029&theme=github-dark&hide_border=true&cache_seconds=86400)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=huzaifa-aslam-029&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-aslam-029&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
 
----
+<img src="https://streak-stats.demolab.com?user=huzaifa-aslam-029&theme=github-dark&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
 
-## 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-aslam-029&layout=compact&theme=radical" />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/huzaifa-aslam0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/huzaifa_aslam0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
+
+<div align="center">
+<sub>Thanks for stopping by — feel free to explore my repositories or reach out.</sub>
+</div>
