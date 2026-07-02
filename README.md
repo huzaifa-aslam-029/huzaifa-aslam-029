@@ -4,7 +4,7 @@
 
 # Huzaifa Aslam
 
-**Aspiring Software Engineer · Web Developer · C# & Java Programmer**
+**Aspiring Software Engineer · Web Developer · C#, Java & JavaScript Programmer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=huzaifa-aslam-029&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/huzaifa-aslam-029)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-aslam0/)
@@ -45,7 +45,10 @@ I'm a software engineering student with a focus on full-stack web development. I
 <div align="center">
 
 ![](https://github.com/huzaifa-aslam-029/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/huzaifa-aslam-029/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+
 ![](https://github.com/huzaifa-aslam-029/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/huzaifa-aslam-029/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 </div>
 
